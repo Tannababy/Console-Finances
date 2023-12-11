@@ -112,5 +112,22 @@ var average = Math.round((totalChanges / (totalMonths - 1)) * 100) / 100;
 console.log(`The average of the changes in Profit/Loss = ${average}`);
 
 // * The greatest increase in Profit/Losses (date and amount) over the entire period.
+var moneyChanges = [];
+var monthChanges = [];
 
+for (let i = 1; i < finances.length; i++) {
+  currentMonth = finances[i][1];
+  previousMonth = finances[i - 1][1];
+
+  moneyChanges.push(currentMonth - previousMonth);
+}
+
+console.log(moneyChanges);
+
+var currentMonthName = finances[i];
+for (let i = 1; i < finances.length; i++) {
+  monthChanges.push(currentMonthName);
+}
+
+console.log(monthChanges);
 // * The greatest decrease in Profit/Losses (date and amount) over the entire period.
