@@ -11,7 +11,7 @@ Below is a screenshot of the data.
 
 ## Usage
 
-The purpose of the code created is to analyse the financial records of a company. In ther screenshot above, you can view the intructions for the data analysis. Below is a link to the JavaScript code.
+The purpose of the code created is to analyse the financial records of a company. In the screenshot above, you can view the intructions for the data analysis. Below is a link to the JavaScript code.
 
 http://127.0.0.1:5501/index.html
 
