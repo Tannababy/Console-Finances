@@ -7,11 +7,13 @@ In this week's challenge :star_struck:, we were given a real-world situation to 
 Below is a screenshot of the data.
 <br>
 <br>
-![Screenshot of instructions and data provided to analyse](./images/topscreen.png)
+![Screenshot of instructions and data provided to analyse](./images/instructions.jpg)
 
 ## Usage
 
-The purpose of the code created is to analyse the financial records of a company.
+The purpose of the code created is to analyse the financial records of a company. Below is a link to the JavaScript code.
+
+http://127.0.0.1:5501/index.html
 
 ## License
 
